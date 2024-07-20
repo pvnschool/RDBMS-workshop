@@ -5,7 +5,8 @@ https://www.freecodecamp.org/learn/relational-database/learn-relational-database
 1. https://stackoverflow.com/users/signup
 2. https://www.linkedin.com/signup
 3. https://github.com/signup
+4. https://chatgpt.com/
 
 ### Fill form
-1. Skills:
-2. 21 July 2024 workshop form:
+1. Skills: https://forms.gle/r6zQftWGtWZYNct78
+2. 21 July 2024 RDBMS workshop form: https://forms.gle/Xij6fyAaXotot45R9
