@@ -1,6 +1,6 @@
 ## Online course
-https://www.freecodecamp.org/learn/relational-database/learn-relational-databases-by-building-a-mario-database/build-a-mario-database
-https://www.w3schools.com/mysql/mysql_rdbms.asp
+1. https://www.freecodecamp.org/learn/relational-database/learn-relational-databases-by-building-a-mario-database/build-a-mario-database
+2. https://www.w3schools.com/mysql/mysql_rdbms.asp
 
 
 ### Signup/Register/Create Account
