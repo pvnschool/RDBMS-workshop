@@ -8,6 +8,7 @@
 2. https://www.linkedin.com/signup
 3. https://github.com/signup
 4. https://chatgpt.com/
+5. https://supabase.com/ Table Editor, SQL Editor
 
 ### Fill form
 1. Skills: https://forms.gle/r6zQftWGtWZYNct78
